@@ -1,0 +1,16 @@
+.filter {
+  padding-bottom: 0.5em;
+}
+
+select[multiple] {
+  background: none;
+  width: auto;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  border-width: 2px;
+  border-style: inset;
+  -moz-appearance: menulist;
+  -webkit-appearance: menulist;
+  appearance: menulist;
+}
